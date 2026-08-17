@@ -172,7 +172,7 @@ img { max-width: 100%; display: block; }
 }
 .hero__inner { max-width: 700px; }
 .hero__logo {
-  width: 70px;
+  width: 200px;
   height: auto;
   margin: 0 auto 1rem;
 }
@@ -284,7 +284,7 @@ img { max-width: 100%; display: block; }
   text-align: center;
 }
 .event__card h3 { font-family: var(--font-heading); margin-top: 0; }
-.event__date { color: var(--color-text-soft); font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.05em; margin: 0 0 0.3rem; }
+.event__date { color: var(--color-text-soft); font-size: 0.85rem; letter-spacing: 0.05em; margin: 0 0 0.3rem; font-family: 'Times New Roman', Times, serif;}
 .event__time { color: var(--color-primary); font-weight: 600; font-size: 1.2rem; margin: 0.3rem 0; }
 .event__sub {
   padding-bottom: 0.8rem;

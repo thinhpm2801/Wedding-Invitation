@@ -116,7 +116,12 @@ function initMiniCalendar() {
     </div>
     <div class="mini-calendar__caption">
       <div class="event__sub">
-        <p>Tiệc Cưới Nhà Trai</p>
+        <p class="event__sub-label">Lễ Thành Hôn</p>
+        <p class="event__date">Chủ Nhật, 20.09.2026</p>
+        <p class="event__time">09:00 Sáng</p>
+      </div>
+      <div class="event__sub">
+        <p class="event__sub-label">Tiệc Cưới Nhà Trai</p>
         <p class="event__date">Chủ Nhật, 20.09.2026</p>
         <p class="event__time">11:00 Sáng</p>
       </div>
@@ -172,7 +177,7 @@ function initMiniCalendarBride() {
     </div>
     <div class="mini-calendar__caption">
       <div class="event__sub">
-        <p class="event__sub-label">Lễ Đính Hôn</p>
+        <p class="event__sub-label">Lễ Vu Quy</p>
         <p class="event__date">Thứ Bảy, 12.09.2026</p>
         <p class="event__time">09:00 Sáng</p>
       </div>
