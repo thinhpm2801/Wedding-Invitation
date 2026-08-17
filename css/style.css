@@ -93,6 +93,10 @@ img { max-width: 100%; display: block; }
   border: 1px solid var(--color-primary);
   transition: background var(--transition), color var(--transition);
 }
+.btn-confirmedreject {
+  background: var(--color-primary);
+  color: #fff;
+}
 .btn--filled {
   background: var(--color-primary);
   color: #fff;
@@ -680,7 +684,7 @@ img { max-width: 100%; display: block; }
 .rsvp-card button {
     margin-top: 4px;
     border: none;
-    background: #d89aa0;
+    /* background: #d89aa0; */
     color: white;
     padding: 8px 18px;
     border-radius: 30px;
